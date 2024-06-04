@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, I'm Pranav!
+### Hi there 👋, Hi all 👋, It's me Pranav!
 #### 📊 Passionate Data Analyst | 📈 Data Enthusiast | 🌍 Tech Lover
 ![📊 Passionate Data Analyst | 📈 Data Enthusiast | 🌍 Tech Lover](https://github.com/Pvakadikar/readme-/blob/main/Data%20Analyst.png)
 

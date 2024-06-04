@@ -11,9 +11,31 @@ Welcome to my GitHub profile! I'm a data analyst based in Manchester, specialisi
 - 📫 How to reach me: linkedin.com/in/pranavvakadikar
 - ⚡ Fun fact: When I'm not diving into data, you can find me exploring virtual worlds and levelling up in my favourite video games.
 
-Skills:   ### Programming Languages - **Python**: Pandas, NumPy, SciPy, Scikit-learn - **R**: dplyr, ggplot2, tidyr - **SQL**: MySQL, PostgreSQL, SQL Server  ### Data Visualization - **Tableau** - **Power BI** - **Matplotlib, Seaborn (Python)** - **ggplot2 (R)**  ### Data Analysis and Manipulation - **Excel**: Advanced functions, PivotTables, VBA - **Jupyter Notebooks** - **Google Analytics**  ### Machine Learning - **Scikit-learn**: Regression, Classification, Clustering - **TensorFlow, Keras**  ### Databases and Big Data - **SQL**: MySQL, PostgreSQL, SQL Server - **NoSQL**: MongoDB - **Big Data**: Hadoop, Spark  ### Tools and Platforms - **Git**: Version control  ### Others - **APIs**: RESTful services - **Version Control**: Git, GitHub
+Skills:
+### Programming Languages   
+- **Python**: Pandas, NumPy, SciPy, Scikit-learn 
+- **R**: dplyr, ggplot2, tidyr 
+- **SQL**: MySQL, PostgreSQL, SQL Server 
+### Data Visualization  
+- **Tableau** 
+- **Power BI**
+- **Matplotlib, Seaborn (Python)** 
+- **ggplot2 (R)**  
+### Data Analysis and Manipulation  
+- **Excel**: Advanced functions, PivotTables, VBA 
+- **Jupyter Notebooks** 
+- **Google Analytics**  
+### Machine Learning 
+- **Scikit-learn**: Regression, Classification, Clustering 
+- **TensorFlow, Keras**  ### Databases and Big Data 
+- **SQL**: MySQL, PostgreSQL, SQL Server 
+- **NoSQL**: MongoDB
+- **Big Data**: Hadoop, Spark  ### Tools and Platforms 
+- **Git**: Version control  ### Others 
+- **APIs**: RESTful services 
+- **Version Control**: Git, GitHub
 
-- 🔭 I’m currently working on I am currently delving into exploratory data analysis projects, honing my skills in Python and R, as I journey towards becoming a proficient data analyst. 
+- 🔭 I am currently delving into exploratory data analysis projects, honing my skills in Python and R, as I journey towards becoming a proficient data analyst. 
 - 🌱 I’m currently learning I am currently immersing myself in the world of data visualization with Tableau and enhancing my skills in SQL for effective data manipulation. Each new insight gained brings me closer to my goal as an aspiring data analyst. 
 
 

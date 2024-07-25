@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a data analyst based in Manchester, specialising in Data Visualisation. I love uncovering insights from data and turning numbers into actionable strategies.
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on being a Data analyst
 - 🌱 I’m currently learning Microsoft Azure
 - 👯 I’m looking to collaborate on Real world Data
 - 💬 Open for discussion on the connection between data and philosophy, and how these insights can be applied in real-world scenarios

@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi all 👋, It's me Pranav!
 #### 📊 Passionate Data Analyst | 📈 Data Enthusiast | 🌍 Tech Lover
-![📊 Passionate Data Analyst | 📈 Data Enthusiast | 🌍 Tech Lover](https://github.com/Pvakadikar/readme-/blob/main/Data%20Analyst.png)
+![📊 Passionate Data Analyst | 📈 Data Enthusiast | 🌍 Tech Lover](https://github.com/Pvakadikar/readme-/blob/main/Data%20Analyst-2.png)
 
 Welcome to my GitHub profile! I'm a data analyst based in Manchester, specialising in Data Visualisation. I love uncovering insights from data and turning numbers into actionable strategies.
 

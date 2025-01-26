@@ -24,7 +24,8 @@ Skills:
 ### Data Analysis and Manipulation  
 - **Excel**: Advanced functions, PivotTables, VBA 
 - **Jupyter Notebooks** 
-- **Google Analytics**  
+- **Google Analytics**
+- **MS Access**
 ### Machine Learning 
 - **Scikit-learn**: Regression, Classification, Clustering 
 - **TensorFlow, Keras**  ### Databases and Big Data 
